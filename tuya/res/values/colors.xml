@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_msg_bg">#edecec</color>
+    <color name="color_red">#ff0000</color>
+    <color name="color_green">#00ff00</color>
+    <color name="color_blue">#0000ff</color>
+    <color name="color_blue_1">#0189c7</color>
+    <color name="color_blue_dark_iphone">#385486</color>
+    <color name="color_gray_disabled">#778899</color>
+    <color name="color_gray_text">#454545</color>
+    <color name="color_gray_divider">#7d7d7d</color>
+    <color name="color_gray_light">#e7e5e6</color>
+    <color name="color_gray_bg">#e8e8e8</color>
+    <!-- 半透明 -->
+    <color name="color_translucent">#60000000</color>
+    <!-- 全透明 -->
+    <color name="color_transparent">#00000000</color>
+    <color name="color_home_bg">#f2f8ff</color>
+    
+    <color name="color_green2">#006000</color>
+    <color name="color_green3">#66CD00</color>
+    <color name="color_letter_split">#CCCCCC</color>
+    
+    <color name="color_yellow">#FFD700</color>
+    <color name="color_orange">#FF7F00</color>
+    
+    
+</resources>

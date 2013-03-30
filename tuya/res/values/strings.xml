@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">涂鸦工具</string>
+    
+    <string name="bao_cun">保存</string>
+    <string name="wen_zi">文字</string>
+    <string name="tu_pian">图片</string>
+    <string name="no_word"></string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
